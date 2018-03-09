@@ -1,0 +1,4 @@
+/home/fifobits/cryptonotewallet/build/CMakeFiles/cryptonote.dir
+/home/fifobits/cryptonotewallet/build/CMakeFiles/cryptonote_automoc.dir
+/home/fifobits/cryptonotewallet/build/CMakeFiles/fifobits.dir
+/home/fifobits/cryptonotewallet/build/CMakeFiles/fifobits_automoc.dir
